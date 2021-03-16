@@ -18,7 +18,6 @@ while (number2 <= 100) {
 console.log('Task-2'); 
 
 for ( i = 1000; i > 49; i -=7) {
-    console.log('the number is', i)
  if (i % 2 === 0)  {
   console.log(i, 'the number is Even');
      } else {
